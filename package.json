@@ -1,0 +1,30 @@
+{
+  "name": "clone-2",
+  "version": "1.0.0",
+  "description": "react // css",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrshaa/Clone_2.git"
+  },
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harrshaa/Clone_2/issues"
+  },
+  "homepage": "https://github.com/Harrshaa/Clone_2#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "postcss": "^8.4.31",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -5,7 +5,9 @@ module.exports = {
     './components/**/*.{html,js}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      spacing :{'10px': '10px'},
+    },
   },
   plugins: [],
 }

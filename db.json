@@ -1,0 +1,271 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "fname": "dddd",
+      "lname": "ddd",
+      "job": "ddd",
+      "organization": "ssss",
+      "website": "sss",
+      "email": "sss",
+      "phone": "ddd",
+      "confirmPassword": "ddd",
+      "city": "ddd",
+      "id": 2
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 3
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 4
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "",
+      "city": "ss",
+      "id": 5
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 6
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 7
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 8
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 9
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 10
+    },
+    {
+      "fname": "sssssssss",
+      "lname": "ssss",
+      "job": "aa",
+      "organization": "sss",
+      "website": "aa",
+      "email": "aa",
+      "phone": "aaa",
+      "confirmPassword": "aa",
+      "city": "ss",
+      "id": 11
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 12
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 13
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 14
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 15
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 16
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 17
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 18
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 19
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 20
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "job": "",
+      "organization": "",
+      "website": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "confirmPassword": "",
+      "city": "",
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

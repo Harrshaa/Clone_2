@@ -1,5 +1,6 @@
 import React from 'react'
 import {LOGO_URL_header} from '../utils/constants'
+import { Link } from "react-router-dom";
 
 import Body from './Body'
 
@@ -18,7 +19,7 @@ const Header = () => {
         <li className='px-4'> <a href='https://augmntx.com/profiles'>Find Dev</a> </li>
         <li className='px-4'> <a href='https://augmntx.com/join'>Apply as Vendor</a></li>
         <li><button className='bg-blue-600 px-4 rounded-full text-white'> Hire Dev</button></li>
-        <li className='px-4'> <a href='https://augmntx.com/admin/auth/login'>Login</a></li>       
+        <li className='px-4'>  <Link to="/login" >Login</Link> </li>       
          
         </ul>
 
